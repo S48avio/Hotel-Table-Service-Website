@@ -10,5 +10,7 @@ Welcome to **THAAL KITCHEN**, a website designed to streamline table service man
 - **Order Placement:** Simple interface for placing orders directly from the table view.
 - **Bill Printing:** Efficient bill generation and printing functionality.
 - **Dynamic Table Status Updates:** Automatically reflects the availability of tables based on real-time data.
+- ![image](https://github.com/user-attachments/assets/9a7338c5-db12-42af-a719-b1fff3d213ac)
+
 - ![image](https://github.com/user-attachments/assets/2642b673-0b43-465a-a69b-0b02b0ca1185)
 
